@@ -12,7 +12,7 @@ Warning: If you already have a composer.json file, it will overwrite it.
 
 ## Build Phar package
 
-    $ curl -s http://box-project.org/installer.php | php
+    $ curl -s https://box-project.github.io/box2/installer.php | php
     $ php box.phar build
 
 ## Usage
